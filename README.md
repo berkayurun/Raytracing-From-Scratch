@@ -1,1 +1,2 @@
-# raytracing_from_scratch
+# Raytracing From Scratch
+A raytracing implementation that follows "Ray Tracing in One Weekend" by Peter Shirley.
